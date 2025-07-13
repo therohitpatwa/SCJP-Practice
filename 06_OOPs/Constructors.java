@@ -1,17 +1,17 @@
-class Student
-{
-    String name;
-    int roll;
+// class Student
+// {
+//     String name;
+//     int roll;
 
-    Student(String name,int roll) {
-        this.name=name;
-        this.roll=roll;
-    }
-    public static void main(String[] args) {
-        Student s=new Student("Rohit", 101);
-    }
+//     Student(String name,int roll) {
+//         this.name=name;
+//         this.roll=roll;
+//     }
+//     public static void main(String[] args) {
+//         Student s=new Student("Rohit", 101);
+//     }
     
-}
+// }
 
 
 

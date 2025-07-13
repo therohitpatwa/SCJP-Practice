@@ -1,27 +1,27 @@
 
-class Test {
+// class Test {
 
-    private static Test t = null;
+//     private static Test t = null;
 
-    private Test() {
+//     private Test() {
 
-    }
+//     }
 
-    public static Test getTest() {
-        if (t == null) {
-            t = new Test();
+//     public static Test getTest() {
+//         if (t == null) {
+//             t = new Test();
 
-        }
-        return t;
-    }
-}
+//         }
+//         return t;
+//     }
+// }
 
-class Client {
+// class Client {
 
-    public static void main(String[] args) {
-        System.out.println(Test.getTest().hashCode());
-        System.out.println(Test.getTest().hashCode());
-        System.out.println(Test.getTest().hashCode());
-        System.out.println(Test.getTest().hashCode());
-    }
-}
+//     public static void main(String[] args) {
+//         System.out.println(Test.getTest().hashCode());
+//         System.out.println(Test.getTest().hashCode());
+//         System.out.println(Test.getTest().hashCode());
+//         System.out.println(Test.getTest().hashCode());
+//     }
+// }
