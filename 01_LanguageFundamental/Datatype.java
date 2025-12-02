@@ -1,5 +1,6 @@
+//05
+
 class Datatype{
-       static char ch;
     public static void main(String[] args) {
         // byte b=10;
         // byte b1=130;
@@ -18,8 +19,9 @@ class Datatype{
         //    boolean b1=True;
         //    boolean b2="true";
         //    boolean b3=0;
-    
-        System.out.print(ch);
+
+        char ch=0;
+        System.out.println(ch);
 
     }
 }
