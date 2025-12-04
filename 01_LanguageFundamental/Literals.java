@@ -2,13 +2,13 @@
 class Literals
 {
     public static void main(String[] args) {
-        int x=10;
-        int y=010;
-        int z=0x10;
-        System.out.println(x);
-        System.out.println(y);
-        System.out.println(z);
-        System.out.println(x+"----"+y+"----"+z);
+        // int x=10;
+        // int y=010;
+        // int z=0x10;
+        // System.out.println(x);
+        // System.out.println(y);
+        // System.out.println(z);
+        // System.out.println(x+"----"+y+"----"+z);
 
         // int a=0786;
         // int b=0xFACE;
@@ -34,6 +34,7 @@ class Literals
 
         // String s="Rohit Patwa";
         // double d=10.5f;
+
 
    }
 }

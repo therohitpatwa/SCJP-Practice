@@ -3,4 +3,4 @@ class Test{
            System.out.println(!true);
            System.out.println(!false);
     }
-}-+
+}

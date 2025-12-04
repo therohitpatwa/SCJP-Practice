@@ -39,10 +39,12 @@ class Arrays {
         // System.out.println(args.length);
         // int e[]=new int[-3];
         // int[] a=new int['a'];
+
         // byte b=10;
         // int[]  f=new int[b];
         // int[] g=new int[2147483647];
         // int[] h=new int[2147483648];
+
         // int[][] a=new int[2][];
         // a[0]=new int[3];
         // a[1]=new int[2];
@@ -51,15 +53,18 @@ class Arrays {
         // b[1]=new int[1];
         // b[2]=new int[3];
         // int c[][]=new int[3][3];
+
         // int[][][] d=new int[2][][];
         // d[0]=new int[3][];
         // d[0][0]=new int[1];
         // d[0][1]=new int[2];
         // d[0][2]=new int[3];
         // d[1]=new int[2][2];
-        // int[]  z=new int[3];
-        // System.out.println(z);
-        // System.out.println(z[0]);
+//    int[]  z=new int[3];
+//         System.out.println(z);
+//         System.out.println(z[0]);
+     
+
         // int[][]  y=new int[2][3];
         // System.out.println(y);
         // System.out.println(y[0]);

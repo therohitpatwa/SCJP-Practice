@@ -1,9 +1,13 @@
+//08
+
+
 // class Variable
 // {
 //     int x;
 //     String s;
 //     boolean b;
 //     public static void main(String[] args) {
+//         // System.out.println(x);
 //         Variable  b=new Variable();
 //         Variable c=new Variable();
 //         System.out.println(b.x);
@@ -14,11 +18,7 @@
 //         c.x=2;
 //         b.m1();
 //         c.m1();
-
-
-
-        
-//     }
+//   }
 //     public void m1()
 //     {
 //         System.out.println(x);
@@ -108,17 +108,17 @@
 
 
 
-class Variable
-{
-    public static void main(String[] args) {
-        // public int x;
-        // private int y;
-        // protected int z;
-        // static int a;
-        // volatile int b;
-        // transient int c;
-        // final int d;
-    }
-}
+// class Variable
+// {
+//     public static void main(String[] args) {
+//         // public int x;
+//         // private int y;
+//         // protected int z;
+//         // static int a;
+//         // volatile int b;
+//         // transient int c;
+//         // final int d;
+//     }
+// }
 
 
