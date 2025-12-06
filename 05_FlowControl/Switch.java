@@ -1,3 +1,6 @@
+//02
+
+
 // class Test{
 //     public static void main(String[] args) {
 //         int x=0;
@@ -120,6 +123,57 @@
 // }
 
 
+
+
+// class Test{
+//     public static void main(String[] args) {
+//         byte x=10;
+     
+//         switch (x) {
+//         case 10:
+//         case 100:
+//         case 1000:
+//         }
+//     }
+// }
+
+
+
+
+
+
+
+// class Test{
+//     public static void main(String[] args) {
+//          long x=10;
+     
+//         switch (x) {
+//         case 97:
+//         case 100:
+//         case 'a':
+//         }
+//     }
+// }
+
+
+// class Test{
+//     public static void main(String[] args) {
+//         int x=0;
+//         switch(x)
+//         {
+//             
+//             case 1:
+//                 System.out.println("1");
+//                 break;
+//             case 2:
+//                 System.out.println("2");
+//             case 3:
+//                 System.out.println("3");
+//             default:
+//                 System.out.println("Hello");
+//         }
+//     }
+// }
 
 
 // class Test{
