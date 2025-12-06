@@ -1,3 +1,5 @@
+//05
+
 // class Test
 // {
 //     public static void main(String[] args) {
@@ -25,14 +27,14 @@
 
 
 // class Test {
-
 //     public static void main(String[] args) {
 //         Object o = new Object();
 //         String s = new String();
 //         StringBuffer sb = new StringBuffer();
 //         System.out.println(o == s);
-//         System.out.println(s == sb);
-
+//         // System.out.println(s == sb);
+//         System.out.println(s==null);
+//         System.out.println(null==null);
 //     }
 
 // }
