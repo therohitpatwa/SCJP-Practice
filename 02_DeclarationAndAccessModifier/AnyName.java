@@ -1,3 +1,5 @@
+//02
+
 // class JavaSourceFileStructure
 // {
 
