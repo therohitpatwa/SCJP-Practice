@@ -1,3 +1,6 @@
+//01
+
+
 // interface Interf
 // {
 //     void m1();
@@ -16,7 +19,7 @@
 //     @Override
 //     public void m2()
 //     {
-
+//
 //     }
 // }
 

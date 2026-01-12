@@ -1,3 +1,5 @@
+//05
+
 // interface Left
 // {
 //     void m1();
@@ -38,6 +40,9 @@
 // }
 
 
+
+
+
 // interface Left{
 //     void m1();
 
@@ -52,6 +57,32 @@
 //     {
 
 //     }
+//     public int m1()
+//     {
+//         return 10;
+//     }
+// }
+
+
+
+
+// interface Left{
+//     void m1();
+
+// }
+// interface Right
+// {
+//    int m1();
+// }
+// class Test implements Left,Right
+// {
+//     public void m1()
+//     {
+
+//     }
+// }
+// class Test1 implements Left,Right
+// {
 //     public int m1()
 //     {
 //         return 10;

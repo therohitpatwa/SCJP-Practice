@@ -1,3 +1,5 @@
+//06
+
 // interface Left{
 //     int x=10;
 // }
