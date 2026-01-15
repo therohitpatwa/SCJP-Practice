@@ -1,3 +1,5 @@
+//02
+
 interface ATM
 {
     void checkBalance();

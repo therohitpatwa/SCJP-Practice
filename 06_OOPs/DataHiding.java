@@ -1,11 +1,11 @@
+//01
 
-class DataHiding {
 
+class DataHiding{
     private double balance;
-
-
-    public double getBalance() {
+    public double  getBalance()
+    {
+        //validation
         return balance;
     }
-
 }
