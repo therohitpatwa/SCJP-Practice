@@ -1,3 +1,5 @@
+//05
+
 // class Parent {
 
 //     public void m1() {
@@ -28,3 +30,22 @@
 //     }
 
 // }
+
+
+
+
+
+/////////
+// class Loan
+// {
+//     //comman method which are required for any type of loan
+// }
+// class HouseLoan extends Loan
+// {
+//     //House Loan Specific method
+// }
+// class VehicleLoan extends Loan{
+//     //Vehicle loan specific method
+// }
+
+

@@ -1,3 +1,8 @@
+//10
+
+
+
+
 // class Test{
 //     public void m1()
 //     {
@@ -118,30 +123,49 @@
 
 
 
+// class Test
+// {
+//    public void m1(int i)
+//     {
+//         System.out.println("General Method");  
+//     }
+//     public void m1(int... i)
+//     {
+//         System.out.println("Var-arg Method");
+//     }
+//     public static void main(String[] args) {
+//         Test t=new Test();
+//         t.m1();
+//         t.m1(10,20);
+//         t.m1(10);
+//     }
+// }
 
-class Animal{
 
-}
-class Monkey extends Animal
-{
 
-}
-class Test{
-    public void m1(Animal a)
-    {
-        System.out.println("Animal Version");
-    }
-    public void m1(Monkey m)
-    {
-        System.out.println("Monkey Version");
-    }
-    public static void main(String[] args) {
-        Test t=new Test();
-        Animal a=new Animal();
-        Animal a1=new Monkey();
-        Monkey m=new Monkey();
-        t.m1(a);
-        t.m1(m);
-        t.m1(a1);
-    }
-}
+// class Animal{
+
+// }
+// class Monkey extends Animal
+// {
+
+// }
+// class Test{
+//     public void m1(Animal a)
+//     {
+//         System.out.println("Animal Version");
+//     }
+//     public void m1(Monkey m)
+//     {
+//         System.out.println("Monkey Version");
+//     }
+//     public static void main(String[] args) {
+//         Test t=new Test();
+//         Animal a=new Animal();
+//         Animal a1=new Monkey();
+//         Monkey m=new Monkey();
+//         t.m1(a);
+//         t.m1(m);
+//         t.m1(a1);
+//     }
+// }

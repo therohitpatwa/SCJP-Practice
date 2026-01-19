@@ -1,21 +1,22 @@
+//11
+
 // class Parent
 // {
 //     public void property()
 //     {
 //         System.out.println("Cash+gold+Chain");
 //     }
-//     public void marry()
+//     public void marry()   //Overriding Method
 //     {
 //         System.out.println("Dhanterash");
 //     }
 // }
 // class Child extends Parent
 // {
-//     public void marry()
+//     public void marry()     //Overriding Method
 //     {
-//         System.out.println("Hritik");
+//         System.out.println("Riyuuuuuuuuuu");
 //     }
-
 // }
 // class Test{
 //     public static void main(String[] args) {
@@ -61,7 +62,7 @@
 // class Child extends Parent{
 //     private void m1()
 //     {
-//               //not overriding just defining same method
+//               //not overriding just defining same method private method is not accesssible in child class.
 //     }
 // }
 
@@ -81,6 +82,20 @@
 
 //     }
 // }
+
+
+
+// abstract class Parent
+// {
+//     public abstract void m1();
+// }
+// class Child extends Parent{
+//     public void m1()
+//     {
+
+//     }
+// }
+
 
 
 
@@ -107,7 +122,7 @@
 // }
 // class Child extends Parent
 // {
-//     public void m1()
+//     void m1()
 //     {
 
 //     }

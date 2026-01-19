@@ -1,3 +1,6 @@
+//17
+
+
 // class Parent
 // {
 //     int i=0;
@@ -20,6 +23,6 @@
 //     {
 //         System.out.println("Second Static Block");
 //     }
-//     int j=20;
+//     int j=20;  
     
 // }

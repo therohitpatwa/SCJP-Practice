@@ -1,3 +1,6 @@
+//12
+
+
 // class Parent{
 //     public static void m1()
 //     {
@@ -19,6 +22,5 @@
 //         C.m1();
 //         Parent p=new Child();
 //         P.m1();
-
 //     }
 // }
